@@ -19,7 +19,7 @@ CHROMA Style は、はてなブログ [CHROMA](http://chroma.hatenablog.com/) �
 /* default */
 /* </system> */
 
-/* == ここにスタイルシートのコードを貼り付ける == */
+/* === ここにスタイルシートのコードを貼り付ける === */
 ```
 
 ## ドキュメント
