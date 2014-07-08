@@ -10,7 +10,7 @@ CHROMA Style は、[CHROMA](http://chroma.hatenablog.com/) （はてなブログ
 また、ブログの設定や記事の書き方によってデザインが崩れる可能性があります。
 
 ## スタイルの適用方法
-はてなブログのダッシュボードから `デザイン -> カスタマイズ -> デザインCSS` に進み、以下のはてなブログ元々のコードに続けて[style.css](https://github.com/thleap/chroma-style-for-hatenablog/blob/master/style.css) を貼り付けます。
+はてなブログのダッシュボードから `デザイン -> カスタマイズ -> デザインCSS` に進み、以下のはてなブログ元々のコードに続けて [style.css](https://github.com/thleap/chroma-style-for-hatenablog/blob/master/style.css) を貼り付けます。
 
 ```css
 /* <system section="theme" selected="alpha2"> */
