@@ -10,7 +10,7 @@ CHROMA Style は、[CHROMA](http://chroma.hatenablog.com/) （はてなブログ
 また、ブログの設定や記事の書き方によってデザインが崩れる可能性があります。
 
 ## スタイルの適用方法
-はてなブログのダッシュボードから `デザイン -> カスタマイズ -> デザインCSS` に進み、以下のはてなブログ元々のコードに続けて[style.css](https://github.com/thleap/chroma-style-for-hatenablog/blob/master/style.css)貼り付けます。
+はてなブログのダッシュボードから `デザイン -> カスタマイズ -> デザインCSS` に進み、以下のはてなブログ元々のコードに続けて [style.css](https://github.com/thleap/chroma-style-for-hatenablog/blob/master/style.css) を貼り付けます。
 
 ```css
 /* <system section="theme" selected="alpha2"> */
@@ -26,6 +26,6 @@ CHROMA Style は、[CHROMA](http://chroma.hatenablog.com/) （はてなブログ
 
 ## ドキュメント
 デザインルールは [design-rule.md](https://github.com/thleap/chroma-style-for-hatenablog/blob/master/doc/design-rule.md) に書いています。  
-CSS の構造は [css-constitution.md]https://github.com/thleap/chroma-style-for-hatenablog/blob/master/doc/css-constitution.md() に書いています。
+CSS の構造は [css-constitution.md](https://github.com/thleap/chroma-style-for-hatenablog/blob/master/doc/css-constitution.md) に書いています。
 
 他のちょこっとしたことは[ブログ](http://chroma.hatenablog.com/)に書き残しています。
