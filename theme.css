@@ -1,6 +1,6 @@
 /* === Design Theme === */
 /* Fonts -- start */
-/* logo */
+/* Logo */
 @font-face {
   font-family: 'Comfortaa';
   font-style: normal;
@@ -8,7 +8,7 @@
   src: local('Comfortaa'), local('Comfortaa-Regular'), url(http://themes.googleusercontent.com/static/fonts/comfortaa/v5/qLBu5CQmSMt1H43OiWJ77bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
 }
 
-/* code */
+/* Code */
 @font-face {
   font-family: 'Source Code Pro';
   font-style: normal;
@@ -119,6 +119,7 @@ pre {
 
 /* Blog -- start */
 /* Layout */
+/* page container */
 #blog-title-inner,
 #wrapper,
 #top-box,
