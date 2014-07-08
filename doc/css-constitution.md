@@ -30,7 +30,7 @@ header { ... }
 
 ## Constitution
 ```
-// CHROMA Style
+// CHROMA Blog Style
 
 Fonts
  |
