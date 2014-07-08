@@ -1,5 +1,5 @@
-# CHROMA Style for Hatena Blog
-CHROMA Style は、[CHROMA](http://chroma.hatenablog.com/) （はてなブログ）用に作成したデザインテーマです。
+# CHROMA Blog Style
+CHROMA Blog Style は、はてなブログの [CHROMA](http://chroma.hatenablog.com/) 用に作成したデザインテーマです。
 
 他のはてなブログにこのスタイルを適用すると、はてなモジュールが含まれているブログのフッター（ `#box2` ）あたりがうまく表示されません。  
 ただし、以下の並びではてなモジュールを追加している場合は、おそらくフッターも CHROMA と同じように表示されると思います。
