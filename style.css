@@ -99,13 +99,7 @@ pre {
 
 /* address */
 #footer address {
-  margin: 0 auto;
-  width: 80%;
   text-align: center;
-}
-
-#footer address:before {
-  content: "@2014 ";
 }
 
 #footer address a img {
@@ -114,7 +108,8 @@ pre {
 
 /* services */
 .services {
-  display: none;
+  margin: 0;
+  text-align: center;
 }
 
 /* footer link */
