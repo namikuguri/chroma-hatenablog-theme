@@ -52,6 +52,8 @@ Global
  |
  |__ Widget
    |
+   |-- ad
+   |
    |-- services
    |
    |__ footer link
