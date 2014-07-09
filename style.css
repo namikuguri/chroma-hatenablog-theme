@@ -808,18 +808,20 @@ form.search-form,
   font-weight: normal;
 }
 
-.page-index .entry-title a {
-  color: #3562B1;
-}
-
-.page-index .entry-title a:hover {
-  text-decoration: underline;
-}
-
 .page-archive .archive-entries .entry-title {
   margin: .41em 0;
   font-size: 125%;
   line-height: 1.25;
+}
+
+.page-index .entry-title a,
+.page-archive .archive-entries .entry-title a {
+  color: #3562B1;
+}
+
+.page-index .entry-title a:hover,
+.page-archive .archive-entries .entry-title a:hover {
+  text-decoration: underline;
 }
 
 /* entry categories */
