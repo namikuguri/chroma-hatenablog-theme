@@ -1075,6 +1075,7 @@ pre.code {
   margin: 0;
   font-size: inherit;
   line-height: inherit;
+  word-break: break-word;
 }
 
 .page-archive .entry-thumb {
