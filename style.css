@@ -93,6 +93,7 @@ pre {
 .google-afc-text,
 #content div#google_afc_user {
   display: inline-block !important;
+  margin: .83em 0;
   border: 6px solid #FAFAFA;
   background-color: #FAFAFA;
 }
