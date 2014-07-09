@@ -91,7 +91,7 @@ pre {
 /* ad */
 .google-afc-image,
 .google-afc-text,
-.entry-inner div#google_afc_user {
+#content div#google_afc_user {
   display: inline-block !important;
   border: 6px solid #FAFAFA;
   background-color: #FAFAFA;
