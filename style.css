@@ -218,6 +218,11 @@ pre {
   background-color: #FAFAE6;
 }
 
+.breadcrumb a:hover,
+.breadcrumb a:visited {
+  color: #3562B1;
+}
+
 /* blog logo */
 #blog-title h1 {
   padding: 0;
