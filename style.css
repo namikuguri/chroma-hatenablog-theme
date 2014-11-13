@@ -1125,20 +1125,6 @@ pre.code {
   line-height: 1.65;
 }
 
-.hatena-bookmark-button-frame {
-  width: 124px !important;
-}
-
-.facebook-like-button {
-  margin-right: 6px;
-  width: 100px !important;
-  height: 20px !important;
-}
-
-.twitter-share-button {
-  width: 93px !important;
-}
-
 .page-archive .archive-entries .social-buttons {
   display: none;
 }
